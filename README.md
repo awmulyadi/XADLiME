@@ -1,7 +1,7 @@
-# Estimating Explainable Alzheimer's Disease Likelihood Map via Clinically-guided Prototype Learning
+# XADLiME: eXplainable Alzheimer's Disease Likelihood Map Estimation via Clinically-guided Prototype Learning
 ![XADLiME](image/xadlime.png)
 
-This repository provides the PyTorch implementation of our proposed XProtoADPM framework in addressing Alzheimer's Disease progression modeling.
+This repository provides the PyTorch implementation of our proposed XADLiME framework in addressing Alzheimer's Disease progression modeling.
 
 ## Datasets
 We utilized Alzheimer's disease neuroimaging initiative dataset
